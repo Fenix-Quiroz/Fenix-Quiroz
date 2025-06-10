@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Fenix Quiroz**
+# 👋 ¡Hola! Soy **Fenix**
 
 Soy un desarrollador web apasionado por crear soluciones funcionales, limpias y bien estructuradas. Me formé de manera autodidacta complementando mi aprendizaje con cursos especializados y un bootcamp de JavaScript + TypeScript. Actualmente sigo perfeccionando mis habilidades a través de estudios avanzados en frontend.
 
